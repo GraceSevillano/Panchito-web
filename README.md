@@ -45,7 +45,7 @@
 <table border="0" width="780">
   <tr>
     <td width="100%">
-      <p align="center"><font size="2" face="Arial">Visite <a href="http://www.misplantillas.com" style="color: #FF0000">MisPlantillas.com</a></font></td>
+      <p align="center"><font size="2" face="Arial">Visite <a href="De tu amiguis :3" style="color: #FF0000">MisPlantillas.com</a></font></td>
   </tr>
 </table>
 </body>
